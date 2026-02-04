@@ -7,7 +7,7 @@ from urllib.parse import quote_plus
 
 # ---------------- CONFIGURATION ----------------
 username = "amajamajoseph"
-password = "desbullyD731950@"
+password = "desbullyD731950"
 encoded_username = quote_plus(username)
 encoded_password = quote_plus(password)
 
